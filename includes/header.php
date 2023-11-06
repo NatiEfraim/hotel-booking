@@ -1,6 +1,8 @@
 <?php
 
 define("APPURL", "http://localhost/dashboard/hotel-booking/");
+define("HOTELSIMAGES", "http://localhost/dashboard/hotel-booking/admin-panel/hotels-admins/hotel-images");
+define("ROOMSIMAGES", "http://localhost/dashboard/hotel-booking/admin-panel/rooms-admins/room-images");
 session_start(); // Start the session
 
 
